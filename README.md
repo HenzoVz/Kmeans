@@ -1,2 +1,1 @@
-Algoritmo de machine learning Kmeans.
-Algoritmo de aprendizagem não supervisioanda.
+Algoritmo de aprendizagem não supervisioanda Kmeans.
